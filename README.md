@@ -1,4 +1,4 @@
-# RANDOM TEAM MATCHER
+# RANDOM TEAM MATCHER1
 
 랜덤으로 팀을 매칭해주는 사이트입니다. 이름을 입력하고 "MAKE TEAM" 버튼을 누르면 팀이 랜덤으로 생성됩니다.
 
